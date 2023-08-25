@@ -1,0 +1,2 @@
+# decor
+Static site
